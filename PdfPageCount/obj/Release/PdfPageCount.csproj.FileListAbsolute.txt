@@ -1,0 +1,51 @@
+D:\Project\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.exe.config
+D:\Project\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.exe
+D:\Project\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.pdb
+D:\Project\PdfPageCount\PdfPageCount\bin\Release\itextsharp.dll
+D:\Project\PdfPageCount\PdfPageCount\bin\Release\itextsharp.xml
+D:\Project\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.csprojResolveAssemblyReference.cache
+D:\Project\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.frmMain.resources
+D:\Project\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.csproj.GenerateResource.Cache
+D:\Project\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.exe
+D:\Project\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.pdb
+D:\Project\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.exe.manifest
+D:\Project\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.application
+D:\Project\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.Properties.Resources.resources
+D:\Project\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.TrustInfo.xml
+D:\Project\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.exe.manifest
+D:\Project\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.application
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.exe.config
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.exe
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.pdb
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.exe.manifest
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.application
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.exe
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Release\PdfPageCount.pdb
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Release\itextsharp.dll
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Release\itextsharp.xml
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.csprojResolveAssemblyReference.cache
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.frmMain.resources
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.Properties.Resources.resources
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.csproj.GenerateResource.Cache
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.TrustInfo.xml
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.exe.manifest
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Release\PdfPageCount.application
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Release\PdfPageCount.exe.config
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Release\PdfPageCount.exe.manifest
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Release\PdfPageCount.application
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Release\PdfPageCount.exe
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Release\PdfPageCount.pdb
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Release\itextsharp.dll
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Release\itextsharp.xml
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.csproj.AssemblyReference.cache
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.csproj.SuggestedBindingRedirects.cache
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.frmMain.resources
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.Properties.Resources.resources
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.csproj.GenerateResource.cache
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.csproj.CoreCompileInputs.cache
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.TrustInfo.xml
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.exe.manifest
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.application
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.csproj.CopyComplete
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.exe
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Release\PdfPageCount.pdb

@@ -1,0 +1,75 @@
+D:\Project\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.exe.config
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.frmMain.resources
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.GenerateResource.Cache
+D:\Project\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.exe
+D:\Project\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.pdb
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.exe
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.pdb
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.Properties.Resources.resources
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.TrustInfo.xml
+D:\Project\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.exe.manifest
+D:\Project\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.application
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.exe.manifest
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.application
+D:\Project\PdfPageCount\PdfPageCount\bin\Debug\itextsharp.dll
+D:\Project\PdfPageCount\PdfPageCount\bin\Debug\itextsharp.xml
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.exe.config
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.exe
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.pdb
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csprojResolveAssemblyReference.cache
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.frmMain.resources
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.Properties.Resources.resources
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.GenerateResource.Cache
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.exe.manifest
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.application
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.exe
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.pdb
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Debug\itextsharp.dll
+D:\PdfPageCount\PdfPageCount\PdfPageCount\bin\Debug\itextsharp.xml
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.TrustInfo.xml
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.exe.manifest
+D:\PdfPageCount\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.application
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.CoreCompileInputs.cache
+D:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.CopyComplete
+Z:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.AssemblyReference.cache
+Z:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.SuggestedBindingRedirects.cache
+Z:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.exe
+Z:\Project\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.pdb
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.AssemblyReference.cache
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.SuggestedBindingRedirects.cache
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.frmMain.resources
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.Properties.Resources.resources
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.GenerateResource.cache
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.CoreCompileInputs.cache
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.exe
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.pdb
+D:\Projects\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.exe.config
+D:\Projects\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.exe.manifest
+D:\Projects\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.application
+D:\Projects\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.exe
+D:\Projects\PdfPageCount\PdfPageCount\bin\Debug\PdfPageCount.pdb
+D:\Projects\PdfPageCount\PdfPageCount\bin\Debug\itextsharp.dll
+D:\Projects\PdfPageCount\PdfPageCount\bin\Debug\itextsharp.xml
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.TrustInfo.xml
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.exe.manifest
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.application
+D:\Projects\PdfPageCount\PdfPageCount\obj\Debug\PdfPageCount.csproj.CopyComplete
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.csproj.AssemblyReference.cache
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.csproj.SuggestedBindingRedirects.cache
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.frmMain.resources
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.Properties.Resources.resources
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.csproj.GenerateResource.cache
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.csproj.CoreCompileInputs.cache
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.exe
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.pdb
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Debug\PdfPageCount.exe.config
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Debug\PdfPageCount.exe.manifest
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Debug\PdfPageCount.application
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Debug\PdfPageCount.exe
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Debug\PdfPageCount.pdb
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Debug\itextsharp.dll
+D:\Projects\PdfPageCount - Copy\PdfPageCount\bin\Debug\itextsharp.xml
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.TrustInfo.xml
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.exe.manifest
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.application
+D:\Projects\PdfPageCount - Copy\PdfPageCount\obj\Debug\PdfPageCount.csproj.CopyComplete
